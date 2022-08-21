@@ -4,7 +4,7 @@
 <h2>🛠 Tecnologias Utilizadas</h2>
 
 <ul>
-    <li>IDE IntelliJ</li>
+    <li>IDE Eclipse</li>
     <li>Java 11</li>
     <li>Maven</li>
     <li><strong>Spring Web</strong></li>
