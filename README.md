@@ -19,7 +19,7 @@
 <h3> Run PostgreSQL on Docker </h3>
 
 
-docker run --name cloud-db -p 5432:5432 -e POSTGRES_DB=cloud -e POSTGRES_USER=daniel -e POSTGRES_PASSWORD=root -d postgres:10-alpine
+docker run --name academia-db -p 5432:5432 -e POSTGRES_DB=academia -e POSTGRES_USER=daniel -e POSTGRES_PASSWORD=root -d postgres:10-alpine
 
 
 <h2><a href="https://strn.com.br/artigos/2018/12/11/todas-as-anota%C3%A7%C3%B5es-do-jpa-anota%C3%A7%C3%B5es-de-mapeamento/">
